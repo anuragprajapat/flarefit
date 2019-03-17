@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_919eccc3ef1f9776c12a5cc147d45b597e6773ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/ryzume/react-native-ble-manager/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f869874cf288716eb0de23ac815b168aaab0e7e6">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/ryzume-react-native-ble-manager-unspecified_2dcb392e3599f319e188113c94942faee93ae2ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2d315574c32f2d67b545a805bb4897989d8e5134.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_da407a4e52e0a8937089b4727212feec4fd81440.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_1d75d62c4e0fc14b988f7f5b45924aa50d592e90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_fecc9f30c65ba95111d8466ffe2607c38c1cd36d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_1185e7966b077a69e813a83c501c4c19977b4851.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_1185e7966b077a69e813a83c501c4c19977b4851.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_5de98e42a76c159c1f992fa7cede2a7a6bd6cbc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f768861356f4cd8613da447181fd15c3f584f52d">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.4_5b373368fb9c1813c7bbdf968a76dbb2244b36e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_1a6041f8459d469464b551f8c3356aa1c95939e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_0e2a151f3efea071c6ba3e93a6e35f9011406115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_1d75d62c4e0fc14b988f7f5b45924aa50d592e90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_b03ae32fb64233a743d92295d37c1e88b54e25d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_0e2a151f3efea071c6ba3e93a6e35f9011406115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/ryzume/react-native-svg/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dea51ba1f07c3a695192a0b5346203271929e131">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/ryzume-react-native-svg-unspecified_536e35f86434e2784f238c8d51fee7edbd36590b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_8e8b53a3d784222b99bef5ccd23dff507fcdaf56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_fc2aea6842df2c1620256d642a31ecc93362ec51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_8b9d549b3e81318629a5939a5c0e5701ef61a23d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_6364a3e91b59fa2d2389b3d6599ea67152a04bdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_9987ea9339ff166e32dfab2217af1f58a96cef63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_6a68fe2266db56ce466d827b809bab4f0de2b244.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/ryzume/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/ryzume-react-native-vector-icons-unspecified_54e9a890b89c35bee3e3c0af0f28995459a9eb14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_2e99b1835a091083f2c24f2217fdd9d82de89d81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/ryzume/react-native-facebook-account-kit/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="81e485f443de43940bf803fb6b4857dfa45b476c">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/ryzume-react-native-facebook-account-kit-unspecified_9733ba59d5b3c5d4352fa80e383b11fc5c6b3eac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_cd577a548e9eae9972f48578e273bcb7610959b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.facebook.android/account-kit-sdk/4.23.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f0d3a0c84eb73fd55228e9dc5471140d6295f7a3">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-account-kit-sdk-4.23.0_5df1172f829da97498e6c57917858bf6b677faae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_2e99b1835a091083f2c24f2217fdd9d82de89d81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_a8f9ae5348d8d7ca5f15c424202d5c9235f999f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_fc2aea6842df2c1620256d642a31ecc93362ec51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/ryzume/react-native-facebook-account-kit/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="81e485f443de43940bf803fb6b4857dfa45b476c">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/ryzume-react-native-facebook-account-kit-unspecified_f5bf36e86c43e81ede27a97e781508e61e6d616f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/ryzume/react-native-facebook-account-kit/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="81e485f443de43940bf803fb6b4857dfa45b476c">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/ryzume-react-native-facebook-account-kit-unspecified_9733ba59d5b3c5d4352fa80e383b11fc5c6b3eac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_cc680c0373d3650b160b454abc8d0d1cb2033896.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.facebook.android/account-kit-sdk/4.23.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f0d3a0c84eb73fd55228e9dc5471140d6295f7a3">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-account-kit-sdk-4.23.0_5df1172f829da97498e6c57917858bf6b677faae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_fa6517cbb9abb0531c95b24169c8c63999317cc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_e578e4fec380da2f5cae5bd84b549fe2202d8a3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_48e2c4f66639a707fd3ccebe49f175d13cbda832.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_4987113a57e07b17361303942f29f5ddf985d26b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_c5806134bd84a2aa7a20da326966ddf4d1d94df8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/ryzume/react-native-linear-gradient/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c0a675e7d318af0251505c36a9962b53e95a01e5">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/ryzume-react-native-linear-gradient-unspecified_5b01117a883fe7e76a749152ebe138500fc8c27e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_6a68fe2266db56ce466d827b809bab4f0de2b244.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/ryzume/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/ryzume-react-native-vector-icons-unspecified_e29d9ee2afc164ff33435cdfa588cb35e3cfb4ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_26874d4adeacb7f6c4a4ac967a2f86c14c414ede.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/ryzume/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/ryzume-react-native-vector-icons-unspecified_54e9a890b89c35bee3e3c0af0f28995459a9eb14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_919eccc3ef1f9776c12a5cc147d45b597e6773ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9d5dde0163eb5d59c29fe1e49f0bb16907ffad7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_fa6517cbb9abb0531c95b24169c8c63999317cc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_11b7398f3dea27c96c638a56e2b471a93c632b9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_1a43ed38f9874f99eb35f973163d6f99d42ff6bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_a036c60170387a508fe77c713d4fd7016fd0518b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_7a895d9d2324c9badc6b264e1b88610f86bbfeff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_c38c778690caf25d76ac9fe8ea0efdb0e33fd16a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_7a895d9d2324c9badc6b264e1b88610f86bbfeff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_1df0cdda5511fd777a2ea2f57111d2be2ff95d45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_c38c778690caf25d76ac9fe8ea0efdb0e33fd16a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_1a43ed38f9874f99eb35f973163d6f99d42ff6bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_505b37187700190035d8ff705ccd4b0916c764c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/ryzume/react-native-linear-gradient/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0a675e7d318af0251505c36a9962b53e95a01e5">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/ryzume-react-native-linear-gradient-unspecified_5b01117a883fe7e76a749152ebe138500fc8c27e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_ef4b1a463c2d5d19a5aa237fa366f81e65540a85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_f2099875b17bb86f15d43fed2aee82a4a20c1539.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_657d30fc22644c93acc91f7e1e382c0c1064981b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_a036c60170387a508fe77c713d4fd7016fd0518b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_3b5edb8c540c942fc0cad6191ba95da3449d0302.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_7e7f9a1cecb20440f5cb60224aa20c586005c77b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_cc680c0373d3650b160b454abc8d0d1cb2033896.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_9a58d3f8962e3313b237e5856847a824b18c193c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_cd577a548e9eae9972f48578e273bcb7610959b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_9b49135f8026ee9b426221613c5c0888fe739878.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_fe45eff1c4cce6956d13d183d7b1d7df443b000e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c084919452360992da3944c43d734877ddf25ce6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_763691b61bf8d0b239986055f1d4ef3ff9c77438.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.facebook.android/account-kit-sdk/4.23.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f0d3a0c84eb73fd55228e9dc5471140d6295f7a3">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-account-kit-sdk-4.23.0_bead269795dcbe2a15196d1dde15d22929a8f768.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_9a58d3f8962e3313b237e5856847a824b18c193c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_3e80be49b8b002bd743fac6dd50ae1949608846e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_8b9d549b3e81318629a5939a5c0e5701ef61a23d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_4c6300f568e145133e6c8c21106bfc2eaf380637.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_840ec44b30e4650eefca51a7c16b8c0eef3ebc7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_24ce3d3ec3a2817b2ff836a5ffe32f3c732cbb98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_1a6041f8459d469464b551f8c3356aa1c95939e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_459643ce417519a5d241d66f43f18b0fd37e8371.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f768861356f4cd8613da447181fd15c3f584f52d">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.4_16c03ae543a93ba5a61dc81bb9434029e4caaf23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_a46fae921f8d428e86db9dd11ba9d46e924c07d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_f4908460c2fff5389c909989c885d18d65b2a071.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_6f2665f37bd03645996fe888f8753a428c8a7d95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f768861356f4cd8613da447181fd15c3f584f52d">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.4_16c03ae543a93ba5a61dc81bb9434029e4caaf23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_a46fae921f8d428e86db9dd11ba9d46e924c07d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_221b4cfe592bc6f3117f8be415b7c6e9f563d4c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/anurag/flarefit/flarefit/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_3b6bd935aeee1f463269bc2fe90935c37bbabca6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/exploded-aar/ryzume/react-native-linear-gradient/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c0a675e7d318af0251505c36a9962b53e95a01e5">
+        <dex dex="/Users/anurag/ryzume/ryzume/android/app/build/intermediates/pre-dexed/debug/ryzume-react-native-linear-gradient-unspecified_08868f537c9cfe456741c45771ae26157d8de596.jar" />
+    </item>
+
+</items>

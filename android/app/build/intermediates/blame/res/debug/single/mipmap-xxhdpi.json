@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/anurag/ryzume/ryzume/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/anurag/ryzume/ryzume/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/anurag/flarefit/flarefit/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/anurag/flarefit/flarefit/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
